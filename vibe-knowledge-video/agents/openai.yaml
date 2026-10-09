@@ -1,0 +1,6 @@
+interface:
+  display_name: "知识分享动画视频"
+  short_description: "保留字幕与图解，没有真人说话声音，从参考分析到配乐和成片的完整制作流程"
+  default_prompt: "用 $vibe-knowledge-video 按参考风格制作知识分享视频，保留字幕、动画和音乐，不加真人说话声。"
+policy:
+  allow_implicit_invocation: true
